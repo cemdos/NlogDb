@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\LogData\LogData\bin\Debug\NLog.config
+C:\Users\dell\Desktop\LogData\LogData\bin\Debug\LogData.exe.config
+C:\Users\dell\Desktop\LogData\LogData\bin\Debug\LogData.exe
+C:\Users\dell\Desktop\LogData\LogData\bin\Debug\LogData.pdb
+C:\Users\dell\Desktop\LogData\LogData\bin\Debug\NLog.dll
+C:\Users\dell\Desktop\LogData\LogData\bin\Debug\NLog.xml
+C:\Users\dell\Desktop\LogData\LogData\obj\Debug\LogData.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\LogData\LogData\obj\Debug\LogData.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\LogData\LogData\obj\Debug\LogData.csproj.CopyComplete
+C:\Users\dell\Desktop\LogData\LogData\obj\Debug\LogData.exe
+C:\Users\dell\Desktop\LogData\LogData\obj\Debug\LogData.pdb
